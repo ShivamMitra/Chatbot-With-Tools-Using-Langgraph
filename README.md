@@ -1,4 +1,4 @@
-# Multi-Actor-Applications-Using-Langgraph
+# Chatbot-With-Tools-Using-Langgraph
 A chatbot application built using the LangGraph framework that integrates external tools — enabling the bot to call out to functions/APIs (tools) as part of its conversational flow.
 
 ## Table of Contents  
