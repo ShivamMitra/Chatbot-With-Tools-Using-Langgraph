@@ -126,5 +126,5 @@ Contributions are welcome! If you’d like to add a new tool, improve graph defi
 - Please ensure your code is documented and tests (if any) are included.
 
 ## License
-This project is licensed under the MIT License – see the LICENSE file for details.
+This project is licensed under the MIT License see the LICENSE file for details.
 
