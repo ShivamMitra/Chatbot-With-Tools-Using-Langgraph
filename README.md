@@ -1,5 +1,5 @@
 # Chatbot-With-Tools-Using-Langgraph
-A chatbot application built using the LangGraph framework that integrates external tools — enabling the bot to call out to functions/APIs (tools) as part of its conversational flow.
+A chatbot application built using the LangGraph framework that integrates external tools enabling the bot to call out to functions/APIs (tools) as part of its conversational flow.
 
 ## Table of Contents  
 1. [About the Project](#about-the-project)  
@@ -20,7 +20,7 @@ A chatbot application built using the LangGraph framework that integrates extern
 ---
 
 ## About the Project  
-This repository demonstrates how to build a chatbot with LangGraph that doesn’t just respond using an LLM, but also *uses tools* — for example, web search, weather lookup, database queries, or any custom function. The underlying architecture uses LangGraph’s graph-based orchestration of states and nodes to embed tool calls into the conversation flow.  
+This repository demonstrates how to build a chatbot with LangGraph that doesn’t just respond using an LLM, but also *uses tools* for example, web search, weather lookup, database queries, or any custom function. The underlying architecture uses LangGraph’s graph-based orchestration of states and nodes to embed tool calls into the conversation flow.  
 
 It acts as a blueprint for building conversational agents where you want:  
 - Tool-aware responses (the bot can invoke a function/tool as part of its answer)  
